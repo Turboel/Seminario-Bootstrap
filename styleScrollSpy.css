@@ -1,0 +1,15 @@
+body {
+	position: relative;
+}
+
+#cabecalho {
+	margin-bottom: 30px;
+}
+
+.nav {
+	top: 0px;
+	margin-top: 20px;
+	z-index: 999;
+	background-color: white;
+	width: 150px;
+}
